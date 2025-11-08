@@ -204,7 +204,7 @@ body{
     font-size:18px;
     font-weight:700;
 }
-.award__text p{
+.award__text p, .award__year p{
     font-size:16px;
 }
 .award__text-top p:last-child, .award__text-bottom p:last-child{
@@ -212,6 +212,7 @@ body{
     color: rgba(1,1,1,0.6);
     line-height: 26px;
 }
+
 
 .main-footer{
     padding-bottom: 47px;
